@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/images/helios-logo-placeholder.png" alt="Helios Solar" width="72" height="72" />
+<img src="public/images/Helios-Solar-Calcualtor-Main-Banner.jpg" alt="Helios Solar" width="100%" height="auto" />
 
 # Helios Solar Calculator
 
@@ -12,7 +12,7 @@
 [![Three.js](https://img.shields.io/badge/Three.js-R3F-black?style=flat-square&logo=threedotjs)](https://threejs.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-[Live Demo](#) · [Report a Bug](https://github.com/hamzak2k17/Helios-Solar-Calcualtor/issues) · [Request Feature](https://github.com/hamzak2k17/Helios-Solar-Calcualtor/issues)
+[Live Demo](https://helios-solar-calcualtor.vercel.app/) · [Report a Bug](https://github.com/hamzak2k17/Helios-Solar-Calcualtor/issues) · [Request Feature](https://github.com/hamzak2k17/Helios-Solar-Calcualtor/issues)
 
 </div>
 
@@ -34,24 +34,24 @@ Then step into `/v2`: a fully interactive 3D scene where you can orbit around a 
 
 ### Main Calculator
 
-![Calculator Hero](public/images/screenshot-hero.png)
+![Calculator Hero](public/images/Main-Hero-Section.jpg)
 *Hero section with animated background orbs and stats*
 
-![Calculator Wizard](public/images/screenshot-wizard.png)
+![Calculator Wizard](public/images/Step-1.jpg)
 *4-step guided wizard — bill, location, roof, lifestyle*
 
-![Results Dashboard](public/images/screenshot-results.png)
+![Results Dashboard](public/images/Results.jpg)
 *Results: 25-year savings chart, production vs. usage, environmental impact, live mode*
 
 ### 3D Experience (`/v2`)
 
-![3D Scene Day](public/images/screenshot-3d-day.png)
+![3D Scene Day]
 *Daytime — solar panels glowing, energy particles flowing sun → panels → home → grid*
 
-![3D Scene Night](public/images/screenshot-3d-night.png)
+![3D Scene Night]
 *Night mode — stars, moonlight, house windows warmly lit*
 
-![3D HUD](public/images/screenshot-hud.png)
+![3D HUD])
 *Tesla-style HUD overlay — live kW output, efficiency, simulated time, energy flow bar*
 
 ---
